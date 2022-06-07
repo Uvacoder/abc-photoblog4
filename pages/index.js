@@ -7,35 +7,23 @@ const pee = (props) => {
   return (
     <div>
       <Head>
-        <title>Zephyrbook</title>
-        <meta name="title" content="Zephyrbook" />
-        <meta
-          name="description"
-          content="A virtual scrapbook website of the #zephyrbook channel!"
-        />
+        <title>CodeDay Mumbai Winter 2022</title>
+        <meta name="title" content="CodeDay Mumbai Winter 2022" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://zephyrbook.vercel.app" />
-        <meta property="og:title" content="Zephyrbook" />
-        <meta
-          property="og:description"
-          content="A virtual scrapbook website of the #zephyrbook channel!"
-        />
+        <meta property="og:url" content="https://codeday.org/mumbai" />
+        <meta property="og:title" content="CodeDay Mumbai Winter 2022" />
         <meta
           property="og:image"
-          content="https://zephyrbook.vercel.app/zephyrbook.png"
+          content="https://cloud-65gi2qqov-hack-club-bot.vercel.app/0cdm_22_march.mp4"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://zephyrbook.vercel.app" />
-        <meta property="twitter:title" content="Zephyrbook" />
-        <meta
-          property="twitter:description"
-          content="A virtual scrapbook website of the #zephyrbook channel!"
-        />
+        <meta property="twitter:url" content="https://codeday.org/mumbai" />
+        <meta property="twitter:title" content="CodeDay Mumbai Winter 2022" />
         <meta
           property="twitter:image"
-          content="https://zephyrbook.vercel.app/zephyrbook.png"
+          content="https://cloud-65gi2qqov-hack-club-bot.vercel.app/0cdm_22_march.mp4"
         />
       </Head>
       <style jsx global>{`
